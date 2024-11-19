@@ -2,6 +2,8 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Microservices_spring\ServiceRegistry"/>
+			<item value="D:\Microservices_spring\RatingService"/>
 			<item value="D:\Microservices_spring\HotelService"/>
 			<item value="D:\Microservices_spring\UserService"/>
 		</list>
